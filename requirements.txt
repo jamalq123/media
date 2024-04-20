@@ -1,0 +1,9 @@
+streamlit
+pandas
+sklearn.model_selection
+sklearn.compose
+sklearn.preprocessing
+sklearn.pipeline
+sklearn.ensemble
+sklearn.linear_model
+sklearn.metrics
