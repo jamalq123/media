@@ -1,5 +1,5 @@
-streamlit
-pandas
+streamlit==1.33.0
+pandas==2.2.2
 sklearn.model_selection
 sklearn.compose
 sklearn.preprocessing
@@ -7,5 +7,5 @@ sklearn.pipeline
 sklearn.ensemble
 sklearn.linear_model
 sklearn.metrics
-scikit-learn
+scikit-learn==0.24.2
 matplotlib
