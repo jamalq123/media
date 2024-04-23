@@ -1,11 +1,4 @@
 streamlit==1.33.0
 pandas==2.2.2
-sklearn.model_selection
-sklearn.compose
-sklearn.preprocessing
-sklearn.pipeline
-sklearn.ensemble
-sklearn.linear_model
-sklearn.metrics
-scikit-learn==0.24.2
-matplotlib
+scikit-learn==1.4.2
+matplotlib==3.8.4
